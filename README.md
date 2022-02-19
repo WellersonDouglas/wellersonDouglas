@@ -2,8 +2,8 @@
 Estou atualmente estudando para me tornar um Front-end, mais quero também estudar para me tornar um FullStack mais adiante.
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wellersondouglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellersondouglas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellersondouglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellersondouglas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
